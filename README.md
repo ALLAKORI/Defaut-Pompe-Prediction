@@ -13,6 +13,10 @@ Ce projet est une application de maintenance prédictive utilisant le machine le
 - Utilisation de modèles supervisés (classification)
 
 ---
+## 📸 Aperçu visuel
+<p align="center">
+  <img src="interface.png" alt="Aperçu de l'interface" width="700"/>
+</p>
 
 ## 🖥️ Technologies utilisées
 
